@@ -17,7 +17,7 @@ users:
     groups: users, admin
     lock_passwd: false
     ssh_authorized_keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDUEO31DbFkM7AUYI9DJsKkGNCAJGeoe52n28EirBq+kDNZOOuDv26M52epzQdb/6dS0+m8Tj01T+JHO8lSuCXlUVVWu5ms2+lW/FjM1drXZoDOusepojUhWvSCUI7UBYHSIIGBdOc0LCbVywCTNcYbB7BJEUJefkiUirSDxsAZjxK1Ax80G4SwmJFlS69qE7700IlG6DWvruBe++6w0lRpiAuCr60kXsDmTwqQ2F0tL7LtcH9hMWnhodUfJ9/A7DzVKgELYcdce10HZLTRqg4B/DMPT/BrW/Q3kAeo3xLPbAR58+9NrBj7Lwff4zKyDYMjjSNyD//AC/e5IkUlYphntX0N++2SWMXBdxuHMJ81S2Re4KkyHqkhe80Z6gEwkpbi8F3wyjTpLiMQbqZAFe5vRfF7+MvyHznEy6zYqlsaxn4Voe1mhcOAqGF55EgtQEaEWxFxSa02bJEDVRlTviQW5Dp8yW5LaLb0nAMHfa/txrwH8lkZH50MGbEr8SHowf8= brodtti@gmail.com
+      - ssh-rsa (Aqui sua chave publica gerada)
 
 # Downloads the golang package
 packages:
