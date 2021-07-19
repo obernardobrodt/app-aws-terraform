@@ -87,3 +87,5 @@ No modules.
 ### Importante
  - Como é teste, deixamos os ips liberados, em produção, devemos liberar somente para nossa vpn ou IP pessoal,  isso para termos segurança.
  
+
+* Referência: https://learn.hashicorp.com/tutorials/terraform/cloud-init
