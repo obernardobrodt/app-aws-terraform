@@ -6,3 +6,4 @@
 *.tfstate.*
 *tf-cloud-init
 *tf-cloud-init.pub
+**/.terraform/*
